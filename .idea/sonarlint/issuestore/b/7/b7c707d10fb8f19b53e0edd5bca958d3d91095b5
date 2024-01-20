@@ -1,0 +1,8 @@
+
+Y
+java:S1854%"7Remove this useless assignment to local variable "arr".(ƒé™ÿÿÿÿÿ8Âğ¿Ê·1
+J
+java:S1481%"(Remove this unused "arr" local variable.(ƒé™ÿÿÿÿÿ8Âğ¿Ê·1
+L	java:S106&"+Replace this use of System.out by a logger.(äè…¶üÿÿÿÿ8Šõ´É·1
+V
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ8ÈÇüÉ·1
